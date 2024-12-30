@@ -1,0 +1,4 @@
+~/git/Sportperson/
+/home/mvgs/git/Sportperson/
+/home/mvgs/git/mlcoin/
+/home/mvgs/git/Aran47/
